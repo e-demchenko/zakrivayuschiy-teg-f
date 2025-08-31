@@ -291,7 +291,7 @@
   z-index: 1;
   color: inherit;
   transition: color 0.5s ease-in-out;
-  color: #fff;
+  
 }
 
 @media (width > 700px) {

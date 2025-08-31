@@ -9,16 +9,16 @@
     --main-body-color:transparent;
     --core-color:transparent;
     --animation-fill-color:red;
-    --grid-gradient: 
+    --grid-gradient:
     repeating-linear-gradient(
     to right,
-    #d3d3d3 0px,      
-    #d3d3d3 2px, 
+    #d3d3d3 0px,
+    #d3d3d3 2px,
     transparent 2px,
     transparent 4px
 ),
 repeating-linear-gradient(
-    to bottom,     
+    to bottom,
     #d3d3d3 0px,
     #d3d3d3 2px,
     transparent 2px,
