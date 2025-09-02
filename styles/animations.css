@@ -27,8 +27,8 @@
   opacity: 0;
 }
 
-.like-icon:hover .core{
-  fill: var(--contour-color); 
+.like-icon:hover .core {
+  fill: var(--contour-color);
   transition: fill 0.3s linear;
 }
 
@@ -71,7 +71,7 @@
     transform: scale(1);
   }
   50% {
-    transform: scale(1.25); 
+    transform: scale(1.25);
   }
   100% {
     transform: scale(1);
